@@ -17,8 +17,8 @@ Total financial obligations peaked in 2018 at 1.8 billion. Despite increased fun
 # BY CATEGORY
 EQIP practices are divided into categories, including the following. Individual practices may repeat across categories. 
 
-CATEGORY | NUMBER OF PRACTICES | TOP PRACTICES (2019)
----------|---------------------|---------------------
+CATEGORY | NUMBER OF PRACTICES | PRACTICES ACCOUNTING FOR GREATEST PROPORTION OF ACREAGE (2019)
+---------|---------------------|---------------------------------------------------------------
 **Soil Quality** | 38 | Cover Crops, Nutrient Management, Irrigation Water Management, Residue and Tillage Management
 **Fish & Wildlife Habitat Management** | 16 | Riparian Buffers, Conservation covers
 **Forest Land Conservation** | 22 | Forest Stand Improvement, Prescribed Burning, Woody Residue Treatment, Tree/Shrub Site Preparation & Establishment   
