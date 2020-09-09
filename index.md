@@ -1,3 +1,11 @@
+# Where do EQIP funds go?
+Texas, California, Arkansas, Mississippi, Georgia, Colorado and Missouri account for 30% of all EQIP obligations, while New England states account for the lowest state-level EQIP obligations. About 5% of obligations are not tied to a specific state (headquarters, regional, or other non-State divisions). 
+
+<iframe title="2019 EQIP OBLIGATIONS BY STATE " aria-label="Map" id="datawrapper-chart-okDpn" src="https://datawrapper.dwcdn.net/okDpn/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="446"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+
+
 # Acreage enrolled in EQIP has grown modestly in recent years, but remains below 2013 levels.
 Total financial obligations peaked in 2018 at 1.8 billion. Despite increased funding, the acreage on completed and active contracts and the acreage receiving conservation are below 2013 levels.  
 
