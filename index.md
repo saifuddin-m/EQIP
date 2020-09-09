@@ -34,11 +34,11 @@ Contracts for categorized applications.
 
 **Which practices have seen the greatest changes between 2009 and 2019?**
 CATEGORY | GREATEST DECLINES | GREATEST INCREASES
----------|-------------------|-------------------
-**SOIL QUALITY** | Herbaceous Wind Barriers, Row Arrangement,Countour Farming, Stripcropping, Countour Orchard and Other Perennial Crops, Integrated Pest Management, Conservation Crop Rotation |Cover Crops, Residue Management Seasonal, Residue and Tillage Management Ridge Till, Cross Wind Ridges, Cross Wind Trap Strips 
-**FORESTS** | Integrated Pest Management, Restoration and Management of Rare or Declining Habitats, Forest Trails and Landings, Access Control, Upland Wildlife Habitat Management | Riparian Forest Buffer, Prescribed Burning, Fuel Break, Woody Residue Treatment, Stream Habitat Improvement and Management 
-**GRAZING** | Integrated Pest Management, Nutrient Management, Animal Trails and Walkways, Forage Harvest Management, Water and Sediment Control Basin | Channel Bank Vegetation, Herbaceous Weed Control, Spring Development, Stream Crossing, Livestock Shelter Structure 
-**WATER** | Waste Recycling, Waste Treatment Lagoon, Wetland Enhancement, Contour Farming, Integrated Pest Management | Roofs and Covers, Field Border, Silvopasture Establishment, Agrichemical Handling Facility, Vegetative Barrier 
+---------|-------------------|---------------------------------------------------------------------
+**SOIL QUALITY** | Herbaceous Wind Barriers, Row Arrangement,Countour Farming, Stripcropping, Countour Orchard and Other Perennial Crops, Integrated Pest Management, Conservation Crop Rotation |Cover Crops, Residue Management Seasonal, Residue and Tillage Management Ridge Till, Cross Wind Ridges, Cross Wind Trap Strips
+**FORESTS** | Integrated Pest Management, Restoration and Management of Rare or Declining Habitats, Forest Trails and Landings, Access Control, Upland Wildlife Habitat Management | Riparian Forest Buffer, Prescribed Burning, Fuel Break, Woody Residue Treatment, Stream Habitat Improvement and Management
+**GRAZING** | Integrated Pest Management, Nutrient Management, Animal Trails and Walkways, Forage Harvest Management, Water and Sediment Control Basin | Channel Bank Vegetation, Herbaceous Weed Control, Spring Development, Stream Crossing, Livestock Shelter Structure
+**WATER** | Waste Recycling, Waste Treatment Lagoon, Wetland Enhancement, Contour Farming, Integrated Pest Management | Roofs and Covers, Field Border, Silvopasture Establishment, Agrichemical Handling Facility, Vegetative Barrier
 
 
 
