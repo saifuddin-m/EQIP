@@ -41,5 +41,5 @@ CATEGORY | DECLINES ⬇ | INCREASES ⬆
 **GRAZING** | Integrated Pest Management, Nutrient Management, Animal Trails and Walkways, Forage Harvest Management, Water and Sediment Control Basin | Channel Bank Vegetation, Herbaceous Weed Control, Spring Development, Stream Crossing, Livestock Shelter Structure
 **WATER** | Waste Recycling, Waste Treatment Lagoon, Wetland Enhancement, Contour Farming, Integrated Pest Management | Roofs and Covers, Field Border, Silvopasture Establishment, Agrichemical Handling Facility, Vegetative Barrier
 
-To View Individual Practices: https://sustainablefoodfarming.shinyapps.io/EQIP/
+[**To view individual practices use this explorer.**](https://sustainablefoodfarming.shinyapps.io/EQIP/)
 
