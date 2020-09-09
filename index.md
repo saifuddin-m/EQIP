@@ -33,6 +33,7 @@ Contracts for categorized applications.
 </script>
 
 **Which practices have seen the greatest changes between 2009 and 2019?**
+
 CATEGORY | GREATEST DECLINES | GREATEST INCREASES
 ---------|-------------------|---------------------------------------------------------------------
 **SOIL QUALITY** | Herbaceous Wind Barriers, Row Arrangement,Countour Farming, Stripcropping, Countour Orchard and Other Perennial Crops, Integrated Pest Management, Conservation Crop Rotation |Cover Crops, Residue Management Seasonal, Residue and Tillage Management Ridge Till, Cross Wind Ridges, Cross Wind Trap Strips
