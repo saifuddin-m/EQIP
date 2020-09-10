@@ -24,6 +24,8 @@ Contracts for categorized applications.
 <iframe title="EQIP CONTRACT CATEGORIES" aria-label="Interactive area chart" id="datawrapper-chart-Jp6Nq" src="https://datawrapper.dwcdn.net/Jp6Nq/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="538"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+*Select trends of interest*
+
 # Cover crops and prescribed burning are among practices with greatest increases in the last decade, while integrated pest management has seen a sharp decline.
 
 **Which practices have seen the greatest increases between 2009 and 2019?**
@@ -33,7 +35,6 @@ Contracts for categorized applications.
 **Which practices have seen the greatest decrease between 2009 and 2019?**
 <iframe title="PRACTICES WITH GREATEST PERCENT DECREASE" aria-label="Range Plot" id="datawrapper-chart-jz5vy" src="https://datawrapper.dwcdn.net/jz5vy/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1139"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
-
 
 [**To view individual practices use this explorer.**](https://sustainablefoodfarming.shinyapps.io/EQIP/)
 *The data presented in this section reflect the fiscal year in which conservation practices were applied, which can occur at any point during the duration of the EQIP contract*
