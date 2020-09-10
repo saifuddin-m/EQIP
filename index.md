@@ -12,6 +12,7 @@ Total financial obligations peaked in 2018 at 1.8 billion. Despite increased fun
 <iframe title="TRENDS IN EQIP FUNDING" aria-label="Interactive area chart" id="datawrapper-chart-TyVJy" src="https://datawrapper.dwcdn.net/TyVJy/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="576"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+*Total financial obligations include technical assistance, financial assistance, and a small proportion of reimbursable funds.
 
 
 # BY CATEGORY
@@ -42,4 +43,6 @@ CATEGORY | DECLINES ⬇ | INCREASES ⬆
 **WATER** | Waste Recycling, Waste Treatment Lagoon, Wetland Enhancement, Contour Farming, Integrated Pest Management | Roofs and Covers, Field Border, Silvopasture Establishment, Agrichemical Handling Facility, Vegetative Barrier
 
 [**To view individual practices use this explorer.**](https://sustainablefoodfarming.shinyapps.io/EQIP/)
+*The data presented in this section reflect the fiscal year in which conservation practices were applied, which can occur at any point during the duration of the EQIP contract*
+*Note that there is some overlap between these groupings, since some practices address multiple resource concerns. Here land unit acres are counted each time a practice is applied on that land unit in the fiscal year.*
 
