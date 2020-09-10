@@ -15,7 +15,7 @@ Total financial obligations peaked in 2018 at 1.8 billion. Despite increased fun
 
 # Practices in the grazing and water quality categories account for the largest share of acreage receiving EQIP funding.
 Watering facilities, brush management, livestock pipelines, and fences are the top four practices with greatest acreage.
-<iframe title="" aria-label="Interactive area chart" id="datawrapper-chart-Jp6Nq" src="https://datawrapper.dwcdn.net/Jp6Nq/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="538"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="" aria-label="Interactive area chart" id="datawrapper-chart-Jp6Nq/7/" src="https://datawrapper.dwcdn.net/Jp6Nq/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="538"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 ### Cover crops and nutrient management are the largest soil practices, but these practices account for far less acreage than grazing practices such as watering facilities, brush management, livestock pipelines, fences, and prescribed grazing.
@@ -27,7 +27,7 @@ Watering facilities, brush management, livestock pipelines, and fences are the t
 
 ## Cover crops and prescribed burning have increased in the last decade, while integrated pest management declined sharply.
 *Select trends of interest are shown below.* [*Use the linked explorer to search for other practices.*](https://sustainablefoodfarming.shinyapps.io/EQIP/)
-<iframe title="TRENDS IN SELECT PRACTICE ACREAGE" aria-label="Interactive area chart" id="datawrapper-chart-9sbVT" src="https://datawrapper.dwcdn.net/9sbVT/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="TRENDS IN SELECT PRACTICE ACREAGE" aria-label="Interactive area chart" id="datawrapper-chart-9sbVT" src="https://datawrapper.dwcdn.net/9sbVT/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 ## Practices showing large increases in acreage between 2009 and 2019:
