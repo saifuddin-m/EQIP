@@ -17,22 +17,14 @@ Total financial obligations peaked in 2018 at 1.8 billion. Despite increased fun
 
 # Grazing and water quality practices account for the largest share of acreage receiving EQIP funding.
 The largest number of contracts in 2019 were for the following categories: Water Quality (203144), Soil Practices (134518), Grazing (84370).
-The latgest number of contracts in 2019 were for the following practices: Nutrient management, Prescribed Grazing, Fences, Watering Facilities, and Brush Management. [BARPLOTS?]
+The latgest number of contracts in 2019 were for the following practices: Nutrient management, Prescribed Grazing, Fences, Watering Facilities, and Brush Management.
 The greatest acreage receiving conservation in 2019 were in the grazing and water quality categories.
 The greatest acreage was from the following practices: Watering Facility, Brush Management, Livestock Pipeline, Fences, Forest Stand Improvement, Prescribed Burning, Prescribed Grazing
 
 
 
-CATEGORY | NUMBER OF PRACTICES IN CATEGORY | PRACTICES ACCOUNTING FOR GREATEST PROPORTION OF ACREAGE (2019)
----------|---------------------------------|---------------------------------------------------------------
-**Soil Quality** | 38 | Cover Crops, Nutrient Management, Irrigation Water Management, Residue and Tillage Management
-**Fish & Wildlife Habitat Management** | 16 | Riparian Buffers, Conservation covers
-**Forest Land Conservation** | 22 | Forest Stand Improvement, Prescribed Burning, Woody Residue Treatment, Tree/Shrub Site Preparation & Establishment   
-**Grazing Land Conservation** | 32 | Watering Facility, Brush Management, Livestock Pipeline, Fence, Prescribed Grazing 
-**Irrigation Efficiency** | 15 | Structure for Water Control, Irrigation Water Management, Irrigation System Sprinkler, Irrigation Pipeline, Pumping Plant 
-**Water Quality** | 66 | Brush Management, Forest Stand Improvement, Prescribed Grazing, Cover Crop, Tree/Shrub Establishment
-**OTHER** | 199 | Access Road, Woody Residue Treatment, Obstruction Removal, Structures for Wildlife, Forest Management Plan - Written 
-
+<iframe title="EQIP PRACTICES WITH GREATEST ACREAGE IN 2019" aria-label="Split Bars" id="datawrapper-chart-nXdGx" src="https://datawrapper.dwcdn.net/nXdGx/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1353"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
 
 Contracts for categorized applications.
 <iframe title="EQIP CONTRACT CATEGORIES" aria-label="Interactive area chart" id="datawrapper-chart-Jp6Nq" src="https://datawrapper.dwcdn.net/Jp6Nq/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="538"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
