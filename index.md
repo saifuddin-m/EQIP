@@ -25,18 +25,17 @@ Total financial obligations peaked in 2018 at 1.8 billion. Despite increased fun
 
 ****
 
-# Cover crops and prescribed burning have increased in the last decade, while integrated pest management has seen a sharp decline.
+## Cover crops and prescribed burning have increased in the last decade, while integrated pest management has seen a sharp decline.
 *Select trends of interest are shown below.* [*Use the linked explorer to search for other practices.*](https://sustainablefoodfarming.shinyapps.io/EQIP/)
 <iframe title="TRENDS IN SELECT PRACTICE ACREAGE" aria-label="Interactive area chart" id="datawrapper-chart-9sbVT" src="https://datawrapper.dwcdn.net/9sbVT/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-**Practices showing the greatest increases in acreage between 2009 and 2019:**
+## Practices showing the greatest increases in acreage between 2009 and 2019:
 *2019 acreage in orange, 2009 acreage in gray*
 <iframe title="PRACTICES WITH GREATEST PERCENT INCREASE" aria-label="Range Plot" id="datawrapper-chart-Jadqn" src="https://datawrapper.dwcdn.net/Jadqn/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="815"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-**Practices showing the greatest decreases in acreage between 2009 and 2019:**
-*2019 acreage in orange, 2009 acreage in gray*
+## Practices showing the greatest decreases in acreage between 2009 and 2019:
 <iframe title="PRACTICES WITH GREATEST PERCENT DECREASE" aria-label="Range Plot" id="datawrapper-chart-jz5vy" src="https://datawrapper.dwcdn.net/jz5vy/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1139"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
