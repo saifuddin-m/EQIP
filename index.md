@@ -13,9 +13,9 @@ Total financial obligations peaked in 2018 at 1.8 billion. Despite increased fun
 
 ****
 
-# Grazing and water quality practices account for the largest share of acreage receiving EQIP funding.
-
-<iframe title="EQIP ACRES BY CATEGORY" aria-label="Interactive area chart" id="datawrapper-chart-Jp6Nq" src="https://datawrapper.dwcdn.net/Jp6Nq/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="538"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+# Practices in the grazing and water quality categories account for the largest share of acreage receiving EQIP funding.
+Watering facilities, brush management, livestock pipelines, and fences are the top four practices with greatest acreage.
+<iframe title="" aria-label="Interactive area chart" id="datawrapper-chart-Jp6Nq" src="https://datawrapper.dwcdn.net/Jp6Nq/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="538"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 ### Cover crops and nutrient management are the largest soil practices, but these practices account for far less acreage than grazing practices such as watering facilities, brush management, livestock pipelines, fences, and prescribed grazing.
@@ -25,18 +25,18 @@ Total financial obligations peaked in 2018 at 1.8 billion. Despite increased fun
 
 ****
 
-## Cover crops and prescribed burning have increased in the last decade, while integrated pest management has seen a sharp decline.
+## Cover crops and prescribed burning have increased in the last decade, while integrated pest management declined sharply.
 *Select trends of interest are shown below.* [*Use the linked explorer to search for other practices.*](https://sustainablefoodfarming.shinyapps.io/EQIP/)
 <iframe title="TRENDS IN SELECT PRACTICE ACREAGE" aria-label="Interactive area chart" id="datawrapper-chart-9sbVT" src="https://datawrapper.dwcdn.net/9sbVT/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 ## Practices showing large increases in acreage between 2009 and 2019:
 *2019 acreage in orange, 2009 acreage in gray*
-<iframe title="PRACTICES WITH GREATEST PERCENT INCREASE" aria-label="Range Plot" id="datawrapper-chart-Jadqn" src="https://datawrapper.dwcdn.net/Jadqn/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="815"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="PRACTICES WITH GREATEST PERCENT INCREASE" aria-label="Range Plot" id="datawrapper-chart-Jadqn" src="https://datawrapper.dwcdn.net/Jadqn/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="815"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 ## Practices showing large decreases in acreage between 2009 and 2019:
-<iframe title="PRACTICES WITH GREATEST PERCENT DECREASE" aria-label="Range Plot" id="datawrapper-chart-jz5vy" src="https://datawrapper.dwcdn.net/jz5vy/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1139"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="PRACTICES WITH GREATEST PERCENT DECREASE" aria-label="Range Plot" id="datawrapper-chart-jz5vy" src="https://datawrapper.dwcdn.net/jz5vy/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1139"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 *The data presented in this section reflect the fiscal year in which conservation practices were applied, which can occur at any point during the duration of the EQIP contract. Note that there is overlap between categories, since some practices address multiple resource concerns. Land unit acres are counted each time a practice is applied on that land unit in the fiscal year.*
