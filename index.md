@@ -16,12 +16,6 @@ Total financial obligations peaked in 2018 at 1.8 billion. Despite increased fun
 
 
 # Grazing and water quality practices account for the largest share of acreage receiving EQIP funding.
-The largest number of contracts in 2019 were for the following categories: Water Quality (203144), Soil Practices (134518), Grazing (84370).
-The latgest number of contracts in 2019 were for the following practices: Nutrient management, Prescribed Grazing, Fences, Watering Facilities, and Brush Management.
-The greatest acreage receiving conservation in 2019 were in the grazing and water quality categories.
-The greatest acreage was from the following practices: Watering Facility, Brush Management, Livestock Pipeline, Fences, Forest Stand Improvement, Prescribed Burning, Prescribed Grazing
-
-
 
 <iframe title="EQIP PRACTICES WITH GREATEST ACREAGE IN 2019" aria-label="Split Bars" id="datawrapper-chart-nXdGx" src="https://datawrapper.dwcdn.net/nXdGx/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1353"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
@@ -29,6 +23,8 @@ The greatest acreage was from the following practices: Watering Facility, Brush 
 Contracts for categorized applications.
 <iframe title="EQIP CONTRACT CATEGORIES" aria-label="Interactive area chart" id="datawrapper-chart-Jp6Nq" src="https://datawrapper.dwcdn.net/Jp6Nq/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="538"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+# Cover crops and prescribed burning are among practices with greatest increases in the last decade, while integrated pest management has seen a sharp decline.
 
 **Which practices have seen the greatest increases between 2009 and 2019?**
 <iframe title="PRACTICES WITH GREATEST PERCENT INCREASE" aria-label="Range Plot" id="datawrapper-chart-XmUux" src="https://datawrapper.dwcdn.net/XmUux/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1117"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
