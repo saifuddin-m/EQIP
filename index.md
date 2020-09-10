@@ -5,7 +5,7 @@ Total financial obligations peaked in 2018 at 1.8 billion. Despite increased fun
 
 <iframe title="TRENDS IN EQIP FUNDING" aria-label="Interactive area chart" id="datawrapper-chart-TyVJy" src="https://datawrapper.dwcdn.net/TyVJy/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="576"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
-*Total financial obligations include technical assistance, financial assistance, and a small proportion of reimbursable funds.*
+*Total financial obligations include technical assistance, financial assistance, and a small proportion of reimbursable funds. Values in plot were scaled down by 100 to share axes with acreage. Multiple plotted values by 100 for dollar amount.*
 
 ****
 
@@ -15,7 +15,7 @@ Total financial obligations peaked in 2018 at 1.8 billion. Despite increased fun
 
 # Practices in the grazing and water quality categories account for the largest share of acreage receiving EQIP funding.
 Watering facilities, brush management, livestock pipelines, and fences are the top four practices with greatest acreage.
-<iframe title="" aria-label="Interactive area chart" id="datawrapper-chart-Jp6Nq" src="https://datawrapper.dwcdn.net/Jp6Nq/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="538"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="" aria-label="Interactive area chart" id="datawrapper-chart-Jp6Nq" src="https://datawrapper.dwcdn.net/Jp6Nq/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="538"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 ### Cover crops and nutrient management are the largest soil practices, but these practices account for far less acreage than grazing practices such as watering facilities, brush management, livestock pipelines, fences, and prescribed grazing.
