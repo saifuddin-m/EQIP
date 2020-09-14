@@ -1,4 +1,4 @@
-> ### [**To view trends in individual practices select a practice using the linked explorer.**](https://sustainablefoodfarming.shinyapps.io/EQIP/)
+### [**To view trends in individual practices select a practice using the linked explorer.**](https://sustainablefoodfarming.shinyapps.io/EQIP/)
 
 *****
 
