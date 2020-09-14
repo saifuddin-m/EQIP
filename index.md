@@ -1,6 +1,8 @@
-# TRENDS IN EQIP FUNDING
-
 > ### [**To view trends in individual practices select a practice using the linked explorer.**](https://sustainablefoodfarming.shinyapps.io/EQIP/)
+
+*****
+
+# TRENDS IN EQIP FUNDING
 
 # Acreage enrolled in EQIP has grown modestly in recent years but remains below 2013 levels.
 Total financial obligations peaked in 2018 at 1.8 billion. Despite increased funding, the acreage on completed and active contracts and the acreage receiving conservation are below 2013 levels.  
